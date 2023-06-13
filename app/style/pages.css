@@ -1,0 +1,29 @@
+section {
+	background-color: #eaeaea;
+	color: #333333;
+}
+section > h2 {
+	color: #007bff;
+}
+
+#page__aboutme {
+
+}
+#page__diplomes {
+
+}
+#page_experiences {
+
+}
+#page__portfolio {
+
+}
+#page__contact {
+
+}
+#page__footer {
+	background-color: #2c2c2c;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}

@@ -1,0 +1,12 @@
+html, body {
+	scroll-behavior: smooth;
+}
+
+section {
+	padding-top: calc(5rem + 2rem);
+	padding-bottom: 2rem;
+	padding-left: 4rem;
+	padding-right: 4rem;
+	min-height: 100vh;
+}
+
